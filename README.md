@@ -1,3 +1,3 @@
-# scraping-the-billboard
+# Scraping Spotify
 
 This app was made for you to make a playlist  most hit musics from the past days.  
